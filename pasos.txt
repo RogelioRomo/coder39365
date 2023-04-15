@@ -5,3 +5,8 @@ Crear repo en GIT:
 3. Agregar todos los archivos: git add . (importante utilizar .gitignore de ser necesario)
 4. Verificacion de estatus, siempre que quieran ya que es solo informativo: git status
 5. Confirmar los cambios con: git commit -m "Algun mensaje descriptivo"
+
+
+Crear ramas:
+1. Saber en cual rama estoy: git branch
+2. Crear nueva rama: git branch nombreDeRama
